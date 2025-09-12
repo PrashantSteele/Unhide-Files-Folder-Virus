@@ -12,5 +12,5 @@ Simple, safe, and fast.
 🚀 Usage
 Windows
 Download the executable or clone this repository.
-Run/Execute or Double Click unhide.exe 
+Run/Execute or Double Click UnhideMe.exe 
 Type the Drive Letter WITHOUT COLON.
