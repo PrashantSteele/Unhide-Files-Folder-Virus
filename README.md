@@ -9,8 +9,9 @@ Recursively processes entire directories.
 Works on removable drives (USB, external HDD) and local drives.
 Simple, safe, and fast.
 
-🚀 Usage
-Windows
+🚀 Usage 
+Windows OS only
+
 Download the executable or clone this repository.
 Run/Execute or Double Click UnhideMe.exe 
 Type the Drive Letter WITHOUT COLON.
