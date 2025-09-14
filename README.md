@@ -10,7 +10,7 @@ Works on removable drives (USB, external HDD) and local drives.
 Simple, safe, and fast.
 
 🚀 Usage 
-Windows OS only
+(Windows OS only)
 
 Download the executable or clone this repository.
 Run/Execute or Double Click UnhideMe.exe 
